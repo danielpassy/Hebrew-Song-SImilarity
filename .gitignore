@@ -1,2 +1,8 @@
+password.txt
 venv/
+data/
+scrapy.cfg
 .idea/
+nlp_module/output_database/
+nlp_module/output_lattice
+nlp_module/lemma_lyrics
