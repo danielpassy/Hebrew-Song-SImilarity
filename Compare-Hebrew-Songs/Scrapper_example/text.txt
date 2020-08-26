@@ -1,0 +1,3 @@
+common SQL queries para teste.
+
+DROP TABLE songs

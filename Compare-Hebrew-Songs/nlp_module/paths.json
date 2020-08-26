@@ -1,0 +1,5 @@
+{
+  "inputlyrics": "output_database",
+  "outputlattice": "output_lattice",
+  "outputlyrics": "lemma_lyrics"
+}
