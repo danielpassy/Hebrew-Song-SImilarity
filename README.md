@@ -1,4 +1,8 @@
 # Compare-Hebrew-Songs
+
+## This project was discontinued
+
+
 A lexical similarity analyzer and scrapper Hebrew song
 
 Built on top of [YAP](https://github.com/onlplab/yap) and [scrappy](https://github.com/scrapy/scrapy)
@@ -19,12 +23,15 @@ Important to notice that the simmiliraty of (A,B) is different than the simmilar
 
 To indicate real simmiliraty, we may use the average of the two simmilarities
 ```
-Sim
+(Similarity(A,B) + Similiratity (B,A)) 2/ 2
 ```
 
 
-Projeto de raspagem e comparação léxica de canções em hebraico.<br>
-O projeto raspava letras de música em hebraico, realiza comparação sintática entre diferentes letras buscando identificar músicas com vocabulário similar.<br>
-O estudante, desta forma, poderia ouvir músicas cujo vocabulário ele já possua, aprendendo algumas poucas palavras por vez através do contexto.<br>
+## Contributions
+Contributions are welcome.
+Just make sure to write the appropriate tests.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
