@@ -10,6 +10,7 @@ Lemmas are, acordding to wikipedia
 >In morphology and lexicography, a lemma (plural lemmas or lemmata) is the canonical form,[1] dictionary form, or citation form of a set of words (headword). In English, for example, run, runs, ran and running are forms of the same lexeme
 Songs are compared one against one, resulting in a similarity index <br>
 The similarity index determine how many lemmas two songs have in common as follows.
+
 The song A have similiraty index to the song B according to the following equation:
 ```
 (lemmas in common)/(total distinct lemmas of A) = % simmilarity
